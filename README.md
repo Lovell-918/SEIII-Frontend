@@ -1,4 +1,4 @@
-# frontend
+# 这是软工三大作业的前端部分
 
 > A Vue.js project
 
